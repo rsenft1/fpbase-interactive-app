@@ -60,7 +60,6 @@ server <- function(input, output, session) {
     microscopes {
         name 
         description
-        id
     }
     }
     ')
